@@ -8,6 +8,12 @@ If you use this plugin, please take a moment to submit feedback about your exper
 
 ## Source
 
+### Forked Repo
+
+Might need to sync if there are changes to source... otherwise, the following files have been customized.
+
+Should be able to download zip.
+
   [SiteMap](https://github.com/UCSCLibrary/Sitemap)
 
   [Customization](/views/public/sitemap/show.php)
